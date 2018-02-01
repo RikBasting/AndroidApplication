@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactCard</string>
+    <string name="name">Nombre</string>
+    <string name="forgot_password">Se te olvidó tu contraseña</string>
+    <string name="gradientbackground">gradientBackground</string>
+    <string name="logo">LOGO</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_your_login_details_get_help_signing_in">¿Ha olvidado sus datos de acceso? ¡Obtén ayuda para iniciar sesión!</string>
+</resources>
